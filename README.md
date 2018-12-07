@@ -1,2 +1,3 @@
 # hello-word
 This is my first repository on Github. Trying something new...
+Caetano here, I am currently a student that is pursing cognative science B.S. in hopes of joining the world of AI
